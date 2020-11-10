@@ -22,3 +22,13 @@ Credits to goal kicker series- Java for Professionals
 - [Regex](src/regex)
 - [Streams](src/Streams)
 
+
+### To be covered
+- future
+- async task
+
+### Credits
+
+Snippets from Java For Professionals
+
+[Some cool Java Multiprogramming use cases](/src/useCase/)
