@@ -25,5 +25,17 @@ We want to perform task 1,2,3 in separate thread and want to get notified when a
 - Executor: It will create workers to handle the tasks. It will also be responsible for broadcasting the completion of all the tasks.
 
 
+See code in Solution 1
 
+<hr>
+
+Problem - We have likes, post,comments and new friends and we want to merge all these activities and then want to see then in order
+
+Where each activity is fetch through seperate api
+
+We will be using callable, future and threadPollExecutor for this
+
+See solution 2
+
+<hr>
 
