@@ -18,6 +18,11 @@ public class App {
             }
             processing.set(false);
         });
+        System.out.println("doing some other task...");
+        for(int i=0;i<100;i++){
+            if(i%5==0)
+                System.out.println("Counting i: "+i+" is multiple of 5");
+        }
 
         while (processing.get()){
             // keep running
