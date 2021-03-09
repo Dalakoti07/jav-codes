@@ -21,7 +21,7 @@ Credits to goal kicker series- Java for Professionals
 - [References](src/references)
 - [Regex](src/regex)
 - [Streams](src/Streams)
-
+- [Adhocs](src/adhocs)
 
 ### To be covered
 - future
